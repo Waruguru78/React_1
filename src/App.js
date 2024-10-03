@@ -6,7 +6,7 @@ import Description from './components/Description';
 import Image from './components/Image';
 
 const App = () => {
-    const firstName = "Lizzie"; 
+    const firstName = "Wangui"; 
 
     return (
         <div className="app">
